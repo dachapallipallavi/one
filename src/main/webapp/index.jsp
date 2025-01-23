@@ -183,7 +183,7 @@
     </section>
 
     <section id="skills" class="skills">
-        <h2>Skills</h2>
+        <h2>tech</h2>
         <ul>
             <li>CI/CD - Jenkins, GitHub Actions</li>
             <li>Containerization - Docker</li>
