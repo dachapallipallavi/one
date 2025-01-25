@@ -178,8 +178,8 @@
     </header>
 
     <section id="about" class="about">
-        <h2>About Me</h2>
-        <p>Hello! myself srivalli, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <h2>Topic</h2>
+        <p>Hello! iam Dachapalli, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
     <section id="skills" class="skills">
