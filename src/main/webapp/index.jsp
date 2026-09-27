@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>devops</title>
+    <title>AWS cloud</title>
     <style>
         /* General Styles */
         body {
